@@ -1,0 +1,136 @@
+id;affilation;ror_original
+1;National Research Council Canada, Canada;ror.org/04mte1k06
+2;University of Bologna, Italy;ror.org/01111rn36
+3;University of Vienna, Austria;ror.org/03prydq77
+4;University of Cambridge, United Kingdom;ror.org/013meh722
+5;California Institute of Technology, United States;ror.org/05dxps055
+6;Aalborg University, Denmark;ror.org/04m5j1k67
+7;Korea University, Korea (the Republic of);ror.org/047dqcg40
+8;University of South Australia, Australia;ror.org/01p93h210
+9;Université Paris-Sud, France;ror.org/028rypz17
+10;Eindhoven University of Technology, Netherlands;ror.org/02c2kyt77
+11;University of California San Diego, United States;ror.org/0168r3w48
+12;Arizona State University, United States;ror.org/03efmqc40
+13;Georgia Institute of Technology, United States;ror.org/01zkghx44
+14;Stony Brook University, United States;ror.org/05qghxh33
+15;University of Coimbra, Portugal;ror.org/04z8k9a98
+16;University of Tsukuba, Japan;ror.org/02956yf07
+17;University of Split, Croatia;ror.org/00m31ft63
+18;Universität Bremen, Germany;ror.org/04ers2y35
+19;University of Veterinary Medicine Vienna, Austria;ror.org/01w6qp003
+20;Tampere University, Finland;ror.org/033003e23
+21;CSIRO, Australia;ror.org/03qn8fb07
+22;Land and Water, CSIRO, Australia;
+23;SHAO, China;ror.org/003n8re58
+24;TNO, Netherlands;
+25;BMW Group, Germany;ror.org/044kkbh92
+26;Telefónica, Spain;ror.org/012f7tj07
+27;Infineon Technologies, Austria;
+28;Powerlink Queensland, Australia;ror.org/04sg12k28
+29;RHI Magnesita, Austria;ror.org/00d3r7025
+30;Ericsson Nikola Tesla, Croatia;ror.org/04bsh3r03
+31;Infineon Technologies (Austria), Austria;
+32;Telefónica (Spain), Spain;
+33;BMW Group (Germany), Germany;
+34;Siemens (Germany), Germany;
+35;DeepMind (United Kingdom), United Kingdom;
+36;ABB (Switzerland), Switzerland;
+37;Nokia (Finland), Finland;
+38;SAP (Germany), Germany;
+39;Airbus (France), France;
+40;Philips (Netherlands), Netherlands;
+41;Department of Physics, University of Vienna, Austria;
+42;Institute of Analysis and Scientific Computing, TU Wien, Austria;ror.org/04d836q62
+43;Department of Engineering, University of Cambridge, United Kingdom;ror.org/013meh722
+44;Department of Mathematics, University of Bologna, Italy;
+45;Department of Computer Science, University of Tsukuba, Japan;
+46;Faculty of Engineering, University of Split, Croatia;
+47;Department of Electrical Engineering, Eindhoven University of Technology, Netherlands;
+48;School of Materials, University of Manchester, United Kingdom;
+49;Department of Physics, Stony Brook University, United States;
+50;Faculty of Science, University of Coimbra, Portugal;
+51;Institute of Computer Science, University of Tartu, Estonia;
+52;Department of Chemistry, University of Helsinki, Finland;
+53;Faculty of Engineering, Lund University, Sweden;
+54;Department of Mathematics, Universität Bremen, Germany;
+55;School of Life Sciences, ETH Zurich, Switzerland;
+56;Department of Architecture, Design and Media Technology, Aalborg University, Denmark;
+57;Dipartimento di Agricoltura, Ambiente e Alimenti, University of Molise, Italy;
+58;Department of Civil, Environmental and Geomatic Engineering, ETH Zurich, Switzerland;
+59;Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Canada;
+60;School of Mechanical, Medical and Process Engineering, Queensland University of Technology, Australia;
+61;NTT Research, Sunnyvale, California, United States;
+62;Stanford University, Stanford, California, United States;
+63;University of Toronto, Toronto, Ontario, Canada;
+64;University of British Columbia, Vancouver, British Columbia, Canada;
+65;TU Wien, Karlsplatz 13, 1040 Vienna, Austria;ror.org/04d836q62
+66;University of Vienna, Universitätsring 1, 1010 Vienna, Austria;ror.org/03prydq77
+67;ETH Zurich, Rämistrasse 101, 8092 Zürich, Switzerland;
+68;Johannes Kepler University Linz, Altenberger Straße 69, 4040 Linz, Austria;
+69;University of Copenhagen, Nørregade 10, 1165 Copenhagen, Denmark;
+70;University of Helsinki, Yliopistonkatu 4, 00100 Helsinki, Finland;
+71;Korea University, Korea (the Republic of);
+72;Seoul National University, Republic of Korea;
+73;University of Cape Town, South Africa;
+74;University of São Paulo, Brazil;
+75;National University of Singapore, Singapore;
+76;University of Auckland, New Zealand;
+77;Technion – Israel Institute of Technology, Israel;ror.org/03qryx823
+78;American University of Beirut, Lebanon;ror.org/04pznsd21
+79;Abdelmalek Essaâdi University, Morocco;ror.org/03c4shz64
+80;Hamad bin Khalifa University, Qatar;ror.org/03eyq4y97
+81;"University of Vienna, Austria;CERN, Switzerland";
+82;"TU Wien, Austria;Austrian Academy of Sciences, Austria";
+83;"University of Cambridge, United Kingdom;TNO, Netherlands";
+84;"CSIRO, Australia;University of South Australia, Australia";
+85;"University of Bologna, Italy;National Research Council Canada, Canada";
+86;"Stony Brook University, United States;University of Coimbra, Portugal";
+87;"Eindhoven University of Technology, Netherlands;VTT Technical Research Centre of Finland, Finland";
+88;"University of Split, Croatia;Ericsson Nikola Tesla, Croatia";
+89;"Aalborg University, Denmark;University of Cambridge, United Kingdom";
+90;"Infineon Technologies (Austria), Austria;BMW Group (Germany), Germany";
+91;TUM Technical University Munich, Deutsches Museum München, Germany;
+92;California Institute of Technology, NASA Jet Propulsion Laboratory, United States;
+93;University at Albany, State University of New York, United States;ror.org/012zs8222
+94;University of Vienna, Medical University of Vienna, Austria;
+95;TU Wien, Austrian Academy of Sciences, Austria;
+96;University of Cambridge and University College London, United Kingdom;
+97;University of Oslo and SINTEF, Norway;
+98;ETH Zurich, Paul Scherrer Institute, Switzerland;
+99;University of Barcelona, Barcelona Supercomputing Center, Spain;
+100;University of Helsinki, Aalto University, Finland;
+101;Université Paris-Sud, France;
+102;University of South Australia, Australia;
+103;Eastern Switzerland University of Applied Sciences, Switzerland;
+104;Queen Mary and Westfield College, United Kingdom;
+105;University of Manchester Institute of Science and Technology, United Kingdom;
+106;CERN, Geneva, Switzerland;
+107;Paul Scherrer Institute, Villigen, Switzerland;
+108;European Molecular Biology Laboratory, Heidelberg, Germany;
+109;Max Planck Institute for Intelligent Systems, Tübingen, Germany;
+110;Fraunhofer Society, Germany;
+111;VTT Technical Research Centre of Finland, Espoo, Finland;
+112;SINTEF, Trondheim, Norway;
+113;Austrian Academy of Sciences, Vienna, Austria;
+114;Barcelona Supercomputing Center, Barcelona, Spain;
+115;Public Health Agency of Canada, Canada;ror.org/023xf2a37
+116;AVL List GmbH, Graz, Austria;
+117;TTTech Computertechnik AG, Vienna, Austria;
+118;Red Bull GmbH, Fuschl am See, Austria;
+119;Knorr-Bremse GmbH, Austria;
+120;SAN Group, Herzogenburg, Austria;
+121;Otto Bock Healthcare Products GmbH, Vienna, Austria;
+122;OpenAI, San Francisco, United States;
+123;Solventa BV, Netherlands;
+124;Etter Soehne AG, Switzerland;
+125;ALP.Lab GmbH, Graz, Austria;
+126;CSIRO, Australia;
+127;Department of Physics, University of Vienna, Austria;
+128;CERN, Geneva, Switzerland;
+129;NTT Research, Sunnyvale, California, United States;
+130;Infineon Technologies (Austria), Austria;
+131;University of Cambridge, United Kingdom;
+132;RHI Magnesita, Austria;
+133;Aalborg University, Denmark;
+134;University of South Australia, Australia;
+135;Université Paris-Sud, France;

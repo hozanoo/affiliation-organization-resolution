@@ -1,0 +1,36 @@
+# Local environment configuration
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+*.ipynb
+!jupyter/tutorial_affiliation_pipeline_v1.ipynb
+!jupyter/tutorial_affiliation_pipeline_en_v1.ipynb
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local GeoNames data
+data/cities500/
+data/alternateNamesV2/
+
+# ROR API cache and checkpoints
+data/ror_api_cache*.json
+data/*checkpoint*.csv
+
+
+# Ignore all CSV files in data/
+data/*.csv
+
+# Keep the public demo/test dataset
+!data/affilation_test.csv
+
+
+# OS files
+.DS_Store
+Thumbs.db
